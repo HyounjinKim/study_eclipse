@@ -19,10 +19,8 @@ public class Array01 {
 						
 			if(A[i] == v) {
 				count++;
-			}	
-			
+			}
 		}
 		System.out.println(count);
 	}
-
 }
