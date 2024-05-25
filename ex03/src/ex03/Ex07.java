@@ -15,5 +15,4 @@ public class Ex07 {
 		System.out.println((byte)(kk+1)); // 오버플로우 8bi
 		
 	}
-
 }
