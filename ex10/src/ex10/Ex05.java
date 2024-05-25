@@ -21,5 +21,4 @@ public class Ex05 {
 		System.out.println(AA.b);
 		System.out.println(AA.b);
 	}
-
 }
