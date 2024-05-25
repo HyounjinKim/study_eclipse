@@ -30,5 +30,4 @@ public class Array05 {
 			System.out.print(basket[i] + " ");
 		}
 	}
-
 }
