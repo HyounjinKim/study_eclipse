@@ -27,5 +27,4 @@ public class Tv {
 			channel = 0;
 		}
 	}
-
 }
