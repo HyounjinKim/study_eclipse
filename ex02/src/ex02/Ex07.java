@@ -20,7 +20,5 @@ public class Ex07 {
 		//참조형 타입 변수 선언
 		AA aa = new AA();
 		aa.doA();
-		
 	}
-
 }
