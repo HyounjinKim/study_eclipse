@@ -15,5 +15,4 @@ public class Ex03 {
 		String a = new String("abcd");		
 		System.out.println(a.toUpperCase());
 	}
-
 }
