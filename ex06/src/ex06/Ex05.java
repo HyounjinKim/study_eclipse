@@ -25,5 +25,4 @@ public class Ex05 {
 		}
 		System.out.println(h + " " + m);
 	}
-
 }
