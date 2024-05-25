@@ -25,13 +25,10 @@ public class Ex06 {
 	}
 
 	public static void main(String[] args) {
-		// new Ex06();
-//		new Ex06();
 		Ex06 ex06 = new Ex06();
 		ex06.doA(); // 인스턴스함수 호출
 		
 		Ex06.doB(); // static 함수
 
 	}
-
 }
