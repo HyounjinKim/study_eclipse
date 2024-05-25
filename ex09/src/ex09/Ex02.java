@@ -24,9 +24,7 @@ public class Ex02 {
 
 	public static void main(String[] args) {
 		int[] num_list = { 3, 4, 5, 2, 1 };
-//		int[] num_list = { 5, 7, 8, 3 };
 
 		solution(num_list);
 	}
-
 }
