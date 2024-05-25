@@ -11,7 +11,5 @@ public class Ex07 {
 			arr[i] = (int)(Math.random() * 10);
 		}
 		System.out.println(Arrays.toString(arr));
-		
 	}
-
 }
