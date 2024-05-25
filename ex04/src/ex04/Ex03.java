@@ -9,5 +9,4 @@ public class Ex05 {
 		
 		System.out.println(i);
 	}
-
 }
