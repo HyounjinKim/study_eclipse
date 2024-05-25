@@ -16,9 +16,6 @@ public class Ex09 {
 
 	public static void main(String[] args) {
 
-//		doB();
-//		Ex09.doB();
-
 		doA();
 		Ex09.doA();
 
@@ -27,5 +24,4 @@ public class Ex09 {
 		
 		ex09.doB();
 	}
-
 }
