@@ -12,5 +12,4 @@ public class Ex05 {
 		System.out.printf("%d \n" , a >> 2 & a);
 		
 	}
-
 }
