@@ -9,5 +9,4 @@ public class Ex02 {
 		if(x==0) System.out.println((x==0) + "입니다." );
 		if(x!=0) System.out.println("실행이 안됩니다.");
 	}
-
 }
