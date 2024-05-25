@@ -22,5 +22,4 @@ public class Ex03 {
 		
 		System.out.println(a==b || a==c || b==c);
 	}
-
 }
