@@ -20,8 +20,5 @@ public class Ex01 {
 	public static void main(String[] args) {
 		int result = solution(5,3,3);
 		System.out.println(result);
-		
-		
 	}
-
 }
