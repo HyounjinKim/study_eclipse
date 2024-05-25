@@ -23,5 +23,4 @@ public class Ex08 {
 		System.out.println("aa = " + aa);
 		System.out.println("ee = " + ee);
 	}
-
 }
