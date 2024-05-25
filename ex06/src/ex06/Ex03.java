@@ -38,5 +38,4 @@ public class Ex03 {
 		solution(b);
 
 	}
-
 }
