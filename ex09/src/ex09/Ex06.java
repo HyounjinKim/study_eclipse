@@ -29,11 +29,4 @@ public class Ex06 {
 
 		System.out.println(Arrays.toString(cnt_arr));
 	}
-
-	class AA {
-		public static void doA() {
-			System.out.println("111");
-		}
-	}
-
 }
