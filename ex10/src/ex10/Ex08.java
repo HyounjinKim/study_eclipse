@@ -21,7 +21,5 @@ public class Ex08 {
 		
 		System.out.println(t2.channel);
 		System.out.println(t2.power);
-		
 	}
-
 }
