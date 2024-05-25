@@ -11,7 +11,5 @@ public class Ex07 {
 			sum += i;			
 		}
 		System.out.println("sum = " + sum);
-		
 	}
-
 }
