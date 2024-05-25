@@ -20,10 +20,5 @@ public class Ex06 {
 		
 		String c = "10 20 30 40";
 		System.out.println(c.split(" ")[0]);
-//		System.out.println(test[0]);
-//		System.out.println(test[1]);
-//		System.out.println(test[2]);
-//		System.out.println(test[3]);
 	}
-
 }
