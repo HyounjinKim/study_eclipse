@@ -24,5 +24,4 @@ public class Person {
 		this.remark = remark;
 		this.age = age;
 	}
-
 }
