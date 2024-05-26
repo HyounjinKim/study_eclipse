@@ -12,5 +12,4 @@ public class Ex04 {
 		LocalDate ld = LocalDate.now();
 		System.out.println(ld);
 	}
-
 }
