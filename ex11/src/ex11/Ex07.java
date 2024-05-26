@@ -28,6 +28,5 @@ public class Ex07 {
 		a.doA();
 		b.doB();
 		c.doC();
-
 	}
 }
