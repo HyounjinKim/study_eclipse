@@ -25,5 +25,4 @@ class Data {
 	public String toString() {
 		return "Data [x=" + x + "]";
 	}
-
 }
