@@ -15,5 +15,4 @@ public class BankAcount {
 	public void ghkrdls() {
 		System.out.println(ehs);
 	}
-	
 }
