@@ -10,5 +10,4 @@ public class Ex01 {
 		System.out.println(t1);
 		System.out.println(t2);
 	}
-
 }
