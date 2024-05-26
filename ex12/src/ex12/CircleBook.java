@@ -5,16 +5,16 @@ public class CircleBook {
 	final double PI = 3.14;
 
 	public CircleBook(){};
-	
+
 	public CircleBook(int rad) {
 		this.rad = rad;
 	}
-	
+
 	public void setRad(int r) {
 		this.rad = r;
-		
+
 		if(r < 0) {
-			this.rad = 0; return; 
+			this.rad = 0; return;
 		}
 		this.rad = r;
 	}
