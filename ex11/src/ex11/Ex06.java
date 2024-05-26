@@ -6,7 +6,6 @@ class MyClass {
 	public String toString() {
 		return "MyClass";
 	}
-
 }
 
 public class Ex06 {
