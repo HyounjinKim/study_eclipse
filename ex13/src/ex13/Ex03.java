@@ -22,6 +22,6 @@ public class Ex03 {
         AAA.aa.doPrint();
 
         System.out.println("테스트");
-
+        
     }
 }
