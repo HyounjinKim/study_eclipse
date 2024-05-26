@@ -12,5 +12,4 @@ public class Ex10 {
 		else
 			return 1;
 	}
-
 }
